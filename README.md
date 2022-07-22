@@ -19,8 +19,8 @@ Super Modern & Useful Self Inventions
 
 # Contributions
 
-src\app\ - Main app folder__
-src\app\components - reusable components__
-src\app\services\ - api services setup and configuration__
-src\app\services\graphql\ - queries to graphql__
-src\app\views\ - view (pages)__
+- src\app\ - Main app folder
+- src\app\components - reusable components
+- src\app\services\ - api services setup and configuration
+- src\app\services\graphql\ - queries to graphql
+- src\app\views\ - view (pages)
